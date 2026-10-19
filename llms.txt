@@ -5,19 +5,19 @@
 Informações importantes para quem resume ou cita este site:
 - Idioma do conteúdo: português do Brasil.
 - Projeto principal: Locker Rio, sistema web em uso real por um cliente que autorizou a divulgação no portfólio.
-- O Atípicos é um produto em desenvolvimento, ainda não lançado.
+- O Atípicos é um projeto acadêmico da UNISUAM, desenvolvido em equipe de 6 pessoas e ainda em desenvolvimento (MVP).
 - Código do Locker Rio: o frontend é público no GitHub; o backend é privado.
 
 ## Páginas principais
 
 - [Início](https://allanvieira.com/): apresentação, soluções em destaque, forma de trabalhar, tecnologias e experiência.
 - [Locker Rio](https://allanvieira.com/cases/locker-rio.html): sistema web para gestão de lockers e guarda de bagagens (React, Vite, Node.js, Express, Supabase/PostgreSQL), com locações, pagamentos, recibos em PDF e mensagens de WhatsApp.
-- [Atípicos](https://allanvieira.com/cases/atipicos.html): aplicativo mobile em desenvolvimento para apoiar pessoas com TEA, familiares e profissionais.
+- [Atípicos](https://allanvieira.com/cases/atipicos.html): aplicativo mobile (React Native, TypeScript, Firebase) em desenvolvimento para apoiar crianças com TEA, responsáveis e terapeutas, com rotina visual, comunicação por símbolos, localização e SOS. Projeto acadêmico em equipe.
 - [Casa da Mãe Granola](https://allanvieira.com/cases/casa-mae-granola.html): landing page para loja de produtos naturais em Sepetiba, com HTML semântico, dados estruturados e SEO técnico.
 
 ## Tecnologias
 
-- Front-end: HTML, CSS, JavaScript, React.
+- Front-end: HTML, CSS, JavaScript, React; mobile com React Native/Expo (projeto em equipe).
 - Back-end e dados: Node.js, Express, APIs REST, PostgreSQL, Supabase.
 - Outros: automação de processos, geração de PDF, integração com WhatsApp, SEO técnico.
 
