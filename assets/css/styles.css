@@ -5,3 +5,5 @@
 .shot-visual:before{display:none}
 .shots.phones{grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),260px));justify-content:center}
 .shots.duo{grid-template-columns:minmax(0,2.2fr) minmax(0,1fr);align-items:start}@media(max-width:760px){.shots.duo{grid-template-columns:1fr}.shots.duo figure:last-child{max-width:260px}}
+
+.shots-note{margin:.75rem 0 0;font-size:.85rem;opacity:.7}
