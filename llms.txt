@@ -1,0 +1,39 @@
+# Állan Vieira
+
+> Portfólio de Állan Vieira, desenvolvedor web do Rio de Janeiro (RJ). Desenvolve sistemas web, automações e soluções digitais que conectam tecnologia, processos e pessoas. Vem de uma trajetória em faturamento e logística, o que ajuda a entender o processo antes de escolher a tecnologia. Cursa Análise e Desenvolvimento de Sistemas na UNISUAM (previsão de término: dezembro de 2026).
+
+Informações importantes para quem resume ou cita este site:
+- Idioma do conteúdo: português do Brasil.
+- Projeto principal: Locker Rio, sistema web em uso real por um cliente que autorizou a divulgação no portfólio.
+- O Atípicos é um produto em desenvolvimento, ainda não lançado.
+- Código do Locker Rio: o frontend é público no GitHub; o backend é privado.
+
+## Páginas principais
+
+- [Início](https://allanvieira.com/): apresentação, soluções em destaque, forma de trabalhar, tecnologias e experiência.
+- [Locker Rio](https://allanvieira.com/cases/locker-rio.html): sistema web para gestão de lockers e guarda de bagagens (React, Vite, Node.js, Express, Supabase/PostgreSQL), com locações, pagamentos, recibos em PDF e mensagens de WhatsApp.
+- [Atípicos](https://allanvieira.com/cases/atipicos.html): aplicativo mobile em desenvolvimento para apoiar pessoas com TEA, familiares e profissionais.
+- [Casa da Mãe Granola](https://allanvieira.com/cases/casa-mae-granola.html): landing page para loja de produtos naturais em Sepetiba, com HTML semântico, dados estruturados e SEO técnico.
+
+## Tecnologias
+
+- Front-end: HTML, CSS, JavaScript, React.
+- Back-end e dados: Node.js, Express, APIs REST, PostgreSQL, Supabase.
+- Outros: automação de processos, geração de PDF, integração com WhatsApp, SEO técnico.
+
+## Experiência profissional
+
+- 2026 — atual: Cariocarga Logística e Transporte LTDA — faturamento, documentos fiscais de transporte, contas a receber.
+- 2023 — 2026: Deep Logística Dedicada e Portuária LTDA — operações logísticas, WMS, estoque, inventários, documentos fiscais.
+- 2021 — 2023: M.O. Guimarães Serviços LTDA (Ambev Nova Rio) — SAP, indicadores, picking, conferência e notas fiscais.
+
+## Contato
+
+- Site: https://allanvieira.com
+- E-mail: allan@allanvieira.com
+- GitHub: https://github.com/VieiraAllan
+- LinkedIn: https://www.linkedin.com/in/allanrvieira
+
+## Optional
+
+- [Sitemap](https://allanvieira.com/sitemap.xml)
