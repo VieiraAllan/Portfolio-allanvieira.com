@@ -13,6 +13,8 @@ Informações importantes para quem resume ou cita este site:
 - [Início](https://allanvieira.com/): apresentação, soluções em destaque, forma de trabalhar, tecnologias e experiência.
 - [Locker Rio](https://allanvieira.com/cases/locker-rio.html): sistema web para gestão de lockers e guarda de bagagens (React, Vite, Node.js, Express, Supabase/PostgreSQL), com locações, pagamentos, recibos em PDF e mensagens de WhatsApp.
 - [Atípicos](https://allanvieira.com/cases/atipicos.html): aplicativo mobile (React Native, TypeScript, Firebase) em desenvolvimento para apoiar crianças com TEA, responsáveis e terapeutas, com rotina visual, comunicação por símbolos, localização e SOS. Projeto acadêmico em equipe.
+- [WM Cloud](https://allanvieira.com/cases/wm-cloud.html): sistema web de gestão de estoque (Node.js, Express, PostgreSQL) com infraestrutura na AWS, testes de integração e teste de carga. Projeto acadêmico da UNISUAM em equipe de 3 pessoas, em andamento.
+- [Chá de Casa Nova](https://allanvieira.com/cases/cha-de-casa-nova.html): site de convite e lista de presentes com reserva online (HTML, CSS, JavaScript, Supabase). Projeto pessoal.
 - [Casa da Mãe Granola](https://allanvieira.com/cases/casa-mae-granola.html): landing page para loja de produtos naturais em Sepetiba, com HTML semântico, dados estruturados e SEO técnico.
 
 ## Tecnologias
