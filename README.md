@@ -8,6 +8,17 @@ Site estático do portfólio profissional de Állan Vieira, publicado em **https
 - Email: allan@allanvieira.com
 - GitHub: https://github.com/VieiraAllan/
 
+## Projetos em destaque
+
+### Locker Rio
+Sistema web de gestão de lockers e guarda de bagagens, em uso real. Detalhes no [estudo de caso](https://allanvieira.com/cases/locker-rio.html).
+
+| Login | Painel de lockers |
+|---|---|
+| ![Login](assets/screenshots/locker-rio/login-dark.png) | ![Painel](assets/screenshots/locker-rio/painel-dark.png) |
+
+![Locações ativas](assets/screenshots/locker-rio/locacoes-ativas.png)
+
 ## Estrutura
 
 - `index.html` — homepage principal.
